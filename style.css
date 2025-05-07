@@ -1,0 +1,74 @@
+body {
+
+    background-color: rgb(153, 255, 0);
+    font-family: "Pixelify Sans" "press start 2p";
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    
+     
+      
+
+}
+
+div{
+    color: black;
+     size: 150px;
+    text-align: center;
+}
+
+
+
+.Gela {
+    background-color: rgba(53, 53, 198, 0.655);
+}
+
+.bur {
+    background-color: black;
+    color: red;
+    float: left;
+}
+.bur :hover {
+    font-size: 20px;
+}
+.No {
+    color: aliceblue;
+}
+.O {
+   background-color: chartreuse;
+}
+.Gnomiki {
+    background-color: black;
+    color: red;
+    float: left;
+}
+.i {
+    background-color:aqua;
+  
+}
+.lll {
+    background-color: none;
+}
+.speed {
+    background-color: black;
+    color: red;
+    float: left;
+}
+.speed:hover{
+    color:blue;
+    transition: 1s;
+}
+.Kelk {
+    background-color: gold;
+}
+.Zoia {
+    background-color: grey;
+}
+.TT{
+    align-items: center;
+}
+    
+
+.HHH {
+    align-items: center;
+}
